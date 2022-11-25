@@ -147,7 +147,29 @@ img {
         flex-wrap: wrap;
     }
 
-    .col {
+    .lessons .col {
+        width: 100%;
+    }
+
+    .steps .col {
+        width: 100%;
+    }
+
+    .steps {
+        margin-bottom: 0;
+    }
+
+    .why-us {
+        background-color: black;
+        margin-bottom: 0;
+        padding: 3rem 0;
+    }
+
+    .why-us .col-left {
+        width: 100%;
+    }
+
+    .why-us .col-right {
         width: 100%;
     }
 
